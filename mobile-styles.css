@@ -80,6 +80,9 @@
     margin-top: -5px;
 
 }
+.badge p{
+    padding-top: 3px;
+}
 
 .desc {
     font-size: small;
